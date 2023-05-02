@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="image_of_movie">This is image of movie</string>
+    <string name="book">Book</string>
+    <string name="similar_movie_s_list">Similar Movie\'s List</string>
+    <string name="search">Search</string>
+</resources>
